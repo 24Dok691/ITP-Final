@@ -4,7 +4,6 @@ A simple Python program that reads system log files and shows statistics.
 
 ## Team
 
-- Team 6
 - Temirzakhov Adilzhan
 - Zholdygali Azat
 - Niyalov Yerkebulan
